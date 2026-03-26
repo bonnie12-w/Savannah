@@ -9,12 +9,12 @@ const Footer = () => {
             <div className="flex items-center gap-2 mb-4">
               <span className="text-2xl">🔥</span>
               <div>
-                <h3 className="font-display text-xl font-bold gold-gradient-text">Ankara Food Court</h3>
+                <h3 className="font-display text-xl font-bold gold-gradient-text">ViewsCoffeeHouse</h3>
                 <p className="text-[10px] tracking-[0.3em] uppercase text-muted-foreground">AFC</p>
               </div>
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">
-              Get your weekend pizza offers from Ankara. Buy one get one free on all pizzas today and tomorrow. Walk in to grab a bite or order in from home.
+              Get your weekend coffe offers from views coffee.
             </p>
           </div>
 
@@ -28,10 +28,10 @@ const Footer = () => {
                 <Phone className="w-4 h-4 text-primary" /> +254 712 345 678
               </p>
               <p className="flex items-center gap-3">
-                <Mail className="w-4 h-4 text-primary" /> hello@AnkaraFoodCourt.co.ke
+                <Mail className="w-4 h-4 text-primary" /> hello@ViewsCoffeeHouse.co.ke
               </p>
               <p className="flex items-center gap-3">
-                <Instagram className="w-4 h-4 text-primary" /> @AnkaraFoodCourt
+                <Instagram className="w-4 h-4 text-primary" /> @ViewsCoffeeHouse
               </p>
             </div>
           </div>
@@ -51,7 +51,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-border mt-12 pt-8 text-center text-xs text-muted-foreground/50">
-          © 2026 AnkaraFoodCourt. All rights reserved.
+          © 2026 ViewsCoffeeHouse. All rights reserved.
         </div>
       </div>
     </footer>
