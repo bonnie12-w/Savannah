@@ -10,7 +10,7 @@ const Footer = () => {
               <span className="text-2xl">🔥</span>
               <div>
                 <h3 className="font-display text-xl font-bold gold-gradient-text">ViewsCoffeeHouse</h3>
-                <p className="text-[10px] tracking-[0.3em] uppercase text-muted-foreground">AFC</p>
+                <p className="text-[10px] tracking-[0.3em] uppercase text-muted-foreground">Cafe</p>
               </div>
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">
